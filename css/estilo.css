@@ -1,0 +1,97 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    background: #F7F7F8;
+    font-family: 'Arial';
+}
+
+.conteineir{
+    width: 65%;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 8%;
+}
+
+
+.login{
+    display: flex;
+    width: 99%;
+    height: 100%;
+    background: #ffffff;
+    text-align: center;
+    margin-right: 29px;
+
+}
+.tu{
+    margin: auto;
+    width: 53%;
+    height: 79%;
+}
+
+label, input, button, h3{
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+}
+
+button {
+    width: 107%;
+    background: #00A5F1;
+    color: #ffffff;
+    border: #00A5F1 solid 3px;
+    border-radius: 3px;
+    font-size: 17px;
+
+}
+
+.di.a{
+    margin-top: 10px;
+    color:#75cef7;
+}
+input {
+    background: rgb(206, 206, 206);
+    border: 3px solid rgb(206, 206, 206);
+    border-radius: 7px;
+}
+
+.esquerda{
+    float: left;
+    text-align: left;
+}
+
+.direita{
+    float: right;
+    text-align: right;
+}
+
+.direita.link {
+    position: relative;
+    top: 10px;
+    left: 31px;
+}
+
+#box{
+    width: 14px;
+    margin-right: -2px;
+}
+
+#tex{
+    margin-left: 0px;
+}
+
+li img {
+    width: 42px;
+    padding: 18px;
+}
+
+li{
+    list-style-type: none;
+}
+
+#yo{
+    color:#5a97b3
+}
